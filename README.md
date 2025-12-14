@@ -55,19 +55,18 @@
 
 ```bash
 sudo dpkg -i silentcloak.deb
-
-
+```
 ## Удаление
-
+```bash
 sudo apt remove silentcloak
-
+```
 ## Использование
-
+```bash
 sudo silentcloak on
 sudo silentcloak status
 sudo silentcloak off
-
+```
 ## Справка 
-
+```bash
 silentcloak help
-
+```
