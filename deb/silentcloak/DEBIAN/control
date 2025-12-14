@@ -1,0 +1,11 @@
+Package: silentcloak
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: all
+Depends: iptables, bash
+Maintainer: SOC Team
+Description: Режим сетевой тишины для BlueTeam и SOC
+ Инструмент для временного снижения сетевой видимости
+ и сетевой атрибуции хоста. Предназначен для
+ использования на рабочих узлах SOC.

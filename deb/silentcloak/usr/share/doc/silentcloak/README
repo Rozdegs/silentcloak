@@ -1,0 +1,8 @@
+silentcloak — утилита для временного снижения
+сетевой видимости хоста.
+
+Запуск:
+  sudo silentcloak on
+  sudo silentcloak off
+  silentcloak status
+  silentcloak help

@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+echo "[*] silentcloak установлен"
+echo "[*] Использование: silentcloak {on|off|status|help}"
